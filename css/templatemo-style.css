@@ -317,6 +317,7 @@ a:focus {
 .tm-contact-item-link {
   display: flex;
   align-items: center;
+  margin-bottom: 15%;
 }
 
 .tm-contact-item-link i,
